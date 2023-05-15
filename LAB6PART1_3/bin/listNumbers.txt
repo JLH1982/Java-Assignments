@@ -1,0 +1,1 @@
+Numbers 0 = 15Numbers 1 = 31Numbers 2 = 5Numbers 3 = 58Numbers 4 = 14Numbers 5 = 46Numbers 6 = 59Numbers 7 = 25Numbers 8 = 19Numbers 9 = 27Files in Java might be tricky, but it is fun enough!
